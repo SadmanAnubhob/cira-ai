@@ -274,7 +274,7 @@ export default function HomePage() {
                 </div>
               </div>
               <div className="font-mono text-xs text-muted-foreground mt-2 text-center">
-                Contract Address | Pending
+              8WA2FYLVepDrcp7evHTqcPtqJQiU6bznxU8CX5aApump
               </div>
             </div>
           </div>
